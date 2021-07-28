@@ -1,0 +1,8 @@
+.header_top_ul {
+  overflow: hidden;
+}
+.header_top_li {
+  padding: 0 10px;
+  float: left;
+  font-size: 12px;
+}
